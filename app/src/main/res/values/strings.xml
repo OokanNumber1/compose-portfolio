@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Compose Portfolio</string>
+    <string name="name">Fullname :  </string>
+    <string name="nick_name">Nickname :</string>
+    <string name="school">School :</string>
+    <string name="department">Department :</string>
+    <string name="faculty">Faculty :</string>
+    <string name="skillset">Skillset :</string>
+
+</resources>
